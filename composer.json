@@ -1,0 +1,25 @@
+{
+    "name": "kinuz/base",
+    "description": "Kinuz Base for Magento 2",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+      "MIT"
+    ],
+    "authors": [
+      {
+        "name": "Kevin Casasbuenas",
+        "email": "kincasasbuenas@outlook.com",
+        "homepage": "https://kincasasbuenas.dev/",
+        "role": "Adobe Commerce Developer"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Kinuz\\Base\\": ""
+      },
+      "files": [
+        "registration.php"
+      ]
+    }
+  }

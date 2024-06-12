@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright (c) 2024 - Kevin casasbuenas (https://kincasasbuenas.dev/)
+ * @author      Kevin Casasbuenas <kincasasbuenas@outlook.com>
+ * @category    Kinuz
+ * @module      Kinuz/Base
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="kinuz" translate="label" class="kinuz-tab" sortOrder="10">
+            <label>Kinuz</label>
+        </tab>
+    </system>
+</config>
